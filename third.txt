@@ -1,2 +1,7 @@
 this is third file
+<<<<<<< HEAD
 third 
+=======
+third 
+
+>>>>>>> rashtrapal
